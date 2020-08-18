@@ -26,4 +26,4 @@ echo "------------Instalação Java8------------------"
     echo ' JAVA_HOME="/usr/lib/jvm/java-11/"' >> environment
     sudo mv environment /etc/environment
 
-echo "------------Fim instalação Java8------------------"
+echo "------------Fim instalação------------------"
